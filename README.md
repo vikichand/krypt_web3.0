@@ -1,6 +1,6 @@
 # Krypt - Web 3.0 Blockchain Application
 
-Date: 2021
+Date: 2022
 
 ![Krypt](image.png)
 
