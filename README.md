@@ -2,6 +2,8 @@
 
 Date: 2022
 
+A Web 3.0 application that allows users to send transactions throw the Blockchain.
+
 ![Krypt](image.png)
 
 ## Introduction
